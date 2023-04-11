@@ -1,3 +1,4 @@
+# ********************************* Number is Double
 num=input('Insert an integer: ')
 # Check input value 
 if num.isdigit():
